@@ -1,0 +1,91 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(assets/franchisee.jpg);
+    background-size: cover;
+}
+
+header {
+    background-image: url(assets/1583275772247.jpg);
+    color: #1b1d1b;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.main-content {
+    padding: 2rem;
+    text-align: center;
+}
+
+.intro-text {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.cta-button a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.featured-destinations {
+    text-align: center;
+    padding: 2rem;
+}
+
+.destination-card {
+    margin: 1rem;
+}
+
+.destination-card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.contact-form {
+    background-image: url(assets/travel.jpg);
+    padding: 2rem;
+    text-align: center;
+    background-size: cover;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form label,
+form textarea,
+form input {
+    display: block;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+form textarea {
+    height: 150px;
+}
+
+form button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-image: url(assets/1583275772247.jpg);
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
